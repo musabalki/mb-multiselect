@@ -6,4 +6,5 @@
 ##### Tek tek ekle
 ##### Tümünü kaldır
 ##### Tek tek sil
+[Demo](https://musabalki.github.io/mb-multiselect/)
 ![mb multiselect](https://musabalki.com/mb.png)
